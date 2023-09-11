@@ -1,6 +1,6 @@
 # Creative Design Website
 
-This project showcases a creative design website built using HTML, CSS, and JavaScript. It features an interactive user interface displaying various food items such as pancakes, cupcakes, hummus, hamburgers, salmon, and vegetables.
+This project showcases a creative design website built using HTML, CSS, and JavaScript. It features an interactive user board, a customer contact section, and lastly, a section devoted to the dev team.
 
 ## Usage
 
